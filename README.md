@@ -1,17 +1,11 @@
-# sv
+Powered by [`sv`](https://github.com/sveltejs/cli).
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+## Installing a zip
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+When installed, run this
 
 ```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
+npm install
 ```
 
 ## Developing
